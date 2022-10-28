@@ -50,7 +50,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Stephen Pearson**
 is a 3D Artist, Graphic Designer, Video Producer, and the founder of BlenderMadeEasy. He has worked in the 3D industry for over 8 years and has produced several best-selling courses on architectural visualization, VFX simulations, and animation. He started using Blender in 2014 as a fun hobby, but now he uses it to teach other 3D artists around the world. In his spare time, he enjoys riding motorcycles and creating artwork.
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781803234151">https://packt.link/free-ebook/9781803234151 </a> </p>
