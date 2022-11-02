@@ -9,7 +9,7 @@ This is the code repository for [Learn Blender Simulations the Right Way](https:
 ## What is this book about?
 This book is an in-depth guide to creating realistic and eye-catching simulations, understanding the various settings and options around their creation, and learning how to troubleshoot solutions to your own Blender problems. Blender is a free open-source 3D software that allows you to create stunning visual graphics, animation, VFX, and much more! In addition, this program can also be used to simulate the behavior of certain physics such as fire, fluid, soft bodies, and rigid bodies just to name a few.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Learn how to manage users, groups, and permissions
 * Encrypt and decrypt disks with Linux Unified Key Setup /Luks
 * Setup SSH for remote access, and connect it to other nodes
