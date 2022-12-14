@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781803234151)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learn Blender Simulations the Right Way
 
 <a href="https://www.packtpub.com/product/learn-blender-simulations-the-right-way/9781803234151"><img src="https://static.packt-cdn.com/products/9781803234151/cover/smaller" alt="Learn Blender Simulations the Right Way" height="256px" align="right"></a>
